@@ -3,7 +3,7 @@ autograder
 
 A tool written in Python which can be used with an SQL database to automate some of the grading of C and C++ assignments.
 
-**Note: This was part of a group project for school. All of the documentation and code in this repo except for stage 3 was written by me.**
+**Note: This was part of a group project for school. All of the documentation and code in this repo except for stage 2 was written by me.**
 
 #Project Documentation#
 The program is divided into four main stages. These stages can be run independently but must be run in order. For example, stage 2 can be executed on its own but it will only be successful if stage 1 has already ran. Stages that have already been run for a student will not be run unnecessarily even if the Autograder is executed again for that stage.
